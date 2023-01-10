@@ -1,9 +1,8 @@
 # falldown
 Simple game implemented with Python and UVA's gamebox library
 
-See it run!
 
+See it run:
 
-https://user-images.githubusercontent.com/112604420/211682871-b0e9cfd7-5f4f-4b3d-b379-31583bc2b42c.mov
-
+https://user-images.githubusercontent.com/112604420/211683116-987ef2c2-d7dd-49e5-b132-67a49f3c38d8.mov
 
